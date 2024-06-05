@@ -1,5 +1,6 @@
 # Calculator
 
+This Project is a copy of a Youtube-Tutorial: https://www.youtube.com/watch?v=aSfeA87iKWA
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.2.
 
 ## Development server
